@@ -63,7 +63,7 @@ const template = [
   }] : []),
   // { role: 'fileMenu' }
   {
-    label: 'File',
+    label: 'Fisier',
     submenu: [
       isMac ? { role: 'close' } : { role: 'quit' }
     ]
