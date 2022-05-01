@@ -1,5 +1,8 @@
 **Vocal Notes Processor**
 
+Software de editare audio si procesare a fisierelor audio.
+Scop: Parsing-ul podcasturilor, a notitelor vocale personale, cautarea vocilor în zeci sau sute de ore de inregistrari cu zgomot de fundal.
+
 # Desired Requirements and Features
 - Import large number of files (i.e. hundreds or thousands)
 - Import large files (i.e. more than 2 Gb)
